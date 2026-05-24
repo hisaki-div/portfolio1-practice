@@ -95,3 +95,25 @@ main {
     width: 31%;
     margin-bottom: 23px;
 }
+
+#news dl {
+    display: flex;
+    flex-wrap: wrap;
+    border-top: solid 1px #c8c8c8;
+    margin-bottom: 20px;
+}
+
+#news dt {
+    width: 20%;
+    border-bottom: solid 1px #c8c8c8;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+#news dd {
+    width: 80%;
+    border-bottom: solid 1px #c8c8c8;
+    padding: 15px;
+    margin: 0;
+    box-sizing: border-box;
+}
