@@ -117,3 +117,18 @@ main {
     margin: 0;
     box-sizing: border-box;
 }
+
+#contact dl {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+#contact dt {
+    width: 15%;
+}
+
+#contact dd {
+    width: 85%;
+    margin-bottom: 10px;
+}
