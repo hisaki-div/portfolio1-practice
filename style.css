@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    color: 383e45;
+    font-size: 9rem;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+}
