@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    color: 383e45;
+    color: #383e45;
     font-size: 0.9rem;
 }
 
@@ -13,6 +13,10 @@ img {
     max-width: 100%;
 }
 
+a {
+    text-decoration: none;
+}
+
 .wrapper {
     max-width: 960px;
     margin: 0 auto 130px auto;
@@ -21,7 +25,30 @@ img {
 header {
     max-width: 960px;
     display: flex;
+    justify-content: space-between;
     align-items: center;
     height: 270px;
+    margin: 0 auto;
+    padding: 0 4%;
 }
 
+header ul {
+    display: flex;
+    padding: 10px 0;
+}
+
+header li {
+    margin-left: 30px;
+}
+
+header li a {
+    color: #24292e;
+}
+
+header li a:hover {
+    opacity: 0.7;
+}
+
+header li img {
+    width: 20px;
+}
