@@ -1,7 +1,7 @@
 body {
     margin: 0;
     color: 383e45;
-    font-size: 9rem;
+    font-size: 0.9rem;
 }
 
 ul {
@@ -11,4 +11,9 @@ ul {
 
 img {
     max-width: 100%;
+}
+
+.wrapper {
+    max-width: 960px;
+    margin: 0 auto 130px auto;
 }
