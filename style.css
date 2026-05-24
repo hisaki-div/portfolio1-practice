@@ -17,3 +17,11 @@ img {
     max-width: 960px;
     margin: 0 auto 130px auto;
 }
+
+header {
+    max-width: 960px;
+    display: flex;
+    align-items: center;
+    height: 270px;
+}
+
