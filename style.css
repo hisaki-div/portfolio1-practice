@@ -90,3 +90,8 @@ main {
     flex-wrap: wrap;
     margin-bottom: 50px;
 }
+
+#works li {
+    width: 31%;
+    margin-bottom: 23px;
+}
