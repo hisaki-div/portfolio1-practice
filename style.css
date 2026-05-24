@@ -84,4 +84,9 @@ main {
     margin-bottom: 30px;
 }
 
-#works 
+#works ul {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
