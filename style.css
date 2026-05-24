@@ -152,5 +152,10 @@ main {
     color: #fff;
     padding: 15px 0;
     border: solid 1px #24292e;
+    cursor: pointer;
 }
 
+#contact button:hover {
+    background-color: #fff;
+    color: #24292e;
+}
