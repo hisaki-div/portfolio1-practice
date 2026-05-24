@@ -130,5 +130,16 @@ main {
 
 #contact dd {
     width: 85%;
+    margin: 0;
     margin-bottom: 10px;
+}
+
+#contact dd input, #contact dd textarea {
+    width: 100%;
+    border: solid 1px #c8c8c8;
+    padding: 10px;
+}
+
+#contact dd textarea {
+    height: 10rem;
 }
