@@ -74,3 +74,11 @@ main {
     max-width: 1920px;
     height: 420px;
 }
+
+#about ul {
+    margin-bottom: 30px;
+}
+
+#about li:first-child {
+    margin-bottom: 30px;
+}
