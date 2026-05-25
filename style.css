@@ -1,12 +1,15 @@
+html {
+    font-size: 100%;
+}
+
 body {
     margin: 0;
-    color: #383e45;
+    color: #24292e;
     font-size: 0.9rem;
 }
 
-ul {
+li {
     list-style: none;
-    padding: 0;
 }
 
 img {
